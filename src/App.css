@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  background-image:linear-gradient(rgb(249, 114, 114),rgb(185, 44, 44),rgb(137, 12, 12));
+}
+
+textarea{
+  background-color: rgb(9, 69, 79);
+  color:white;
+  font-size: 3rem;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+  border-radius: 7px;
+}
+h1{
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-style: italic;
+  color:rgb(4, 84, 82);
+}
+#save{
+  margin-top: 5px;
+  background-color: rgb(13, 80, 80);
+  color:rgb(210, 52, 52);
+}
+#save:hover{
+  background-color: aqua;
+}
